@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\methods Csharp\bin\Debug\netcoreapp3.1\methods Csharp.exe
+C:\Users\HP\source\repos\methods Csharp\bin\Debug\netcoreapp3.1\methods Csharp.deps.json
+C:\Users\HP\source\repos\methods Csharp\bin\Debug\netcoreapp3.1\methods Csharp.runtimeconfig.json
+C:\Users\HP\source\repos\methods Csharp\bin\Debug\netcoreapp3.1\methods Csharp.runtimeconfig.dev.json
+C:\Users\HP\source\repos\methods Csharp\bin\Debug\netcoreapp3.1\methods Csharp.dll
+C:\Users\HP\source\repos\methods Csharp\bin\Debug\netcoreapp3.1\methods Csharp.pdb
+C:\Users\HP\source\repos\methods Csharp\obj\Debug\netcoreapp3.1\methods Csharp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\methods Csharp\obj\Debug\netcoreapp3.1\methods Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\methods Csharp\obj\Debug\netcoreapp3.1\methods Csharp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\methods Csharp\obj\Debug\netcoreapp3.1\methods Csharp.AssemblyInfo.cs
+C:\Users\HP\source\repos\methods Csharp\obj\Debug\netcoreapp3.1\methods Csharp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\methods Csharp\obj\Debug\netcoreapp3.1\methods Csharp.dll
+C:\Users\HP\source\repos\methods Csharp\obj\Debug\netcoreapp3.1\methods Csharp.pdb
+C:\Users\HP\source\repos\methods Csharp\obj\Debug\netcoreapp3.1\methods Csharp.genruntimeconfig.cache
